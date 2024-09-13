@@ -2,7 +2,7 @@
 
 ## Overview
 
-- Toystory is a flutter application which helps children to make their own 3d model or toy using their imagination.
+- Toystory is a flutter application which helps children to make their own 3d model contents or toy using their imagination.
 <img width="1006" alt="image" src="https://github.com/user-attachments/assets/5852f264-1d13-43a1-8f4c-6f7e6390c361">
 
 ## How it works
