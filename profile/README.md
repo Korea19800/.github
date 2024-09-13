@@ -21,7 +21,7 @@
 ## Skills
 <img width="851" alt="image" src="https://github.com/user-attachments/assets/0ad64149-123d-474e-b28a-abbca277f355">
 
-## Exmaple
+## Example
 - sword(child picture -> modfied image -> 3d printed sword)
 ![sword_example](https://github.com/user-attachments/assets/879ff2ce-8612-454f-99c4-5815bb1cdd63)
 
