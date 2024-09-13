@@ -29,7 +29,7 @@
 <img width="522" alt="image" src="https://github.com/user-attachments/assets/7c774f83-4d5d-4d1a-acd2-6a399baa42f8">
 
 - Result(3d content)
-<img width="518" alt="image" src="https://github.com/user-attachments/assets/e435ed2e-c45d-4ed6-a8da-cad7962cf8d2">
+![image](https://github.com/user-attachments/assets/4f6cbba1-ad1c-4802-8ace-c1b99bf148aa)
 
 - Real toy by 3d printing
 ![frog_example](https://github.com/user-attachments/assets/f1437c6c-f831-41e9-bf61-6f0cfcfdc72b)
