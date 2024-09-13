@@ -1,4 +1,4 @@
-# Toystory imagnination in your hand 🌈👋
+# Toy Story: imagnination in your hand 🌈👋
 
 ## Overview
 
