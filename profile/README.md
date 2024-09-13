@@ -7,8 +7,15 @@
 ## How it works
 - Step1. If a child speak or draw something on a mobile phone or tablet, the speech or drawing is converted to a text using SpeechToText or ImagetoText
 - Step2. The app generates an image based on the previous text(prompt) by using Dall-E 3 api.
-- Step3. Toystory app converts the previous 2d image(.png) to a 3d model(.obj,.glb)
-- Step4. Children can play with the 3d model or print a real toy by using 3d printer.
+- Step3. Toystory app converts the previous 2d image(.png) to a 3d model(.obj,.glb) using TripoSR which leverages LRM(Large Reconstruction Model)
+- Step4. Children can play with the 3d model content or print a real toy by using 3d printer.
+
+<img width="1006" alt="image" src="https://github.com/user-attachments/assets/5852f264-1d13-43a1-8f4c-6f7e6390c361">
+
+<img width="757" alt="image" src="https://github.com/user-attachments/assets/80c11c45-0bc4-4407-8dc9-f2c4d1ad435b">
+
+## Skills
+<img width="851" alt="image" src="https://github.com/user-attachments/assets/0ad64149-123d-474e-b28a-abbca277f355">
 
 
 
